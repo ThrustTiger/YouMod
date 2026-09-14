@@ -1,0 +1,28 @@
+{
+  "name": "ThrustTiger's Source",
+  "identifier": "com.thrustiger.altsource",
+  "sourceURL": "https://raw.githubusercontent.com/ThrustTiger/YouMod/main/apps.json",
+  "apps": [
+    {
+      "name": "YouMod",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "ThrustTiger",
+      "subtitle": "YouTube with YTLite-like features, free.",
+      "localizedDescription": "YouMod is a modified YouTube app that recreates features from YTLite — completely free. Includes downloading, appearance tweaks, player controls, Shorts removal, navigation bar customization, tab bar tweaks, and much more.",
+      "iconURL": "https://raw.githubusercontent.com/ThrustTiger/YouMod/main/Files/icon.png",
+      "tintColor": "FF0000",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "21.21.3",
+          "date": "2026-05-26",
+          "localizedDescription": "YouMod v1.3.0 injected into YouTube 21.21.3.",
+          "downloadURL": "https://github.com/ThrustTiger/YouMod/releases/download/youmod-ipa5/YouMod_21.21.3_v1.3.0.ipa",
+          "size": 122763883,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
