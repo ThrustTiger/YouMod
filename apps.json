@@ -8,11 +8,19 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "ThrustTiger",
       "subtitle": "YouTube with YTLite-like features, free.",
-      "localizedDescription": "YouMod is a modified YouTube app that recreates features from YTLite — completely free. Includes downloading, appearance tweaks, player controls, Shorts removal, navigation bar customization, tab bar tweaks, and much more.",
+      "localizedDescription": "YouMod is a modified YouTube app that recreates the features of YTLite — completely free.\n\nIncludes video, audio and thumbnail downloading, built-in SponsorBlock, extensive appearance and theming options, ad and Shorts removal, navigation bar and tab bar customization, automatic quality and audio track selection, custom playback speed and gestures, and a fully redesigned settings panel.",
       "iconURL": "https://raw.githubusercontent.com/ThrustTiger/YouMod/main/Files/icon.png",
       "tintColor": "FF0000",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "REPLACE_WITH_YOUTUBE_VERSION",
+          "date": "2026-08-23",
+          "localizedDescription": "YouMod v2.0.0 — a large release focused on fixes, improvements and a lot of new features.\n\nADDED\n• Built-in SponsorBlock integration\n• Completely redesigned settings UI and logic\n\nDOWNLOADING\n• Fixed videos that could not be saved to Photos or were unplayable\n• Audio downloads now use the original source\n• New progress dialog, plus a sheet header showing video details\n• Options to copy video, comment and post information\n• Download button added to Shorts; improved thumbnail handling\n• Fixed download options missing on iPhone layout and older YouTube versions\n\nPLAYER\n• Automatic quality selection per connection type and Low Power Mode\n• Automatic audio and caption track selection\n• Default playback speed, custom hold-to-speed gesture, tap to seek\n• Estimated end time on the duration display\n• Options to hide related videos, comments and quick actions\n• Fixed channel watermarks and paid promotion banners not being removed\n\nSHORTS\n• Shorts-only mode, pinch to toggle fullscreen, hide player elements\n\nFEED & APPEARANCE\n• Fixed new ad types not being removed\n• Options to hide horizontal shelves and the Shorts shelf\n• Fixed OLED theme not applying in some areas\n\nTAB BAR\n• Frosted tab bar style and 17 additional tabs including History and Watch Later\n\nCredit to the upstream YouMod project and its contributors.",
+          "downloadURL": "REPLACE_WITH_IPA_DOWNLOAD_URL",
+          "size": 0,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "21.21.3",
           "date": "2026-05-26",
